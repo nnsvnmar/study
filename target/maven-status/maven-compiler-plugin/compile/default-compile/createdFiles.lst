@@ -1,0 +1,13 @@
+com\example\car\Entity\AccountCredentials.class
+com\example\car\Service\UserDetailsServiceImpl.class
+com\example\car\Controller\CarController.class
+com\example\car\Entity\Owner.class
+com\example\car\Repository\OwnerRepository.class
+com\example\car\Entity\User.class
+com\example\car\Repository\UserRepository.class
+com\example\car\config\SecurityConfig.class
+com\example\car\Entity\Car.class
+com\example\car\Repository\CarRepository.class
+com\example\car\Controller\LoginController.class
+com\example\car\Service\JwtService.class
+com\example\car\CarApplication.class
